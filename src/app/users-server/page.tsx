@@ -1,4 +1,3 @@
-import { resolve } from "path";
 
 type User = {
   id: number;

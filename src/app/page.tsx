@@ -9,7 +9,7 @@ export default function Home() {
         <Counter />
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">Done with React</li>
-          <li>What's Next</li>
+          <li>What&apos;s Next</li>
         </ol>
 
         
